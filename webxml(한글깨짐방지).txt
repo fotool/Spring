@@ -1,4 +1,4 @@
-<!-- 한글 깨짐 방지 -->
+<!-- 한글 깨짐 방지 (web.xml)-->
 	<filter>
 		<filter-name>encodingFilter</filter-name>
 		<filter-class>org.springframework.web.filter.CharacterEncodingFilter</filter-class>
